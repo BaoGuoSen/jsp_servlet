@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+table tr:nth-child(odd) {
+	background-color: #dadee1;
+}
+
+table tr:nth-child(even) {
+	background-color: #ffffff;
+	collapse: 0px;
+	padding: 0px;
+}
+
+tr td {
+	width: 125px;
+	text-align: center;
+}
+
+#leftpart {
+	width: 400px;
+	height: 8px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+
+#centerpart {
+	position: absolute;
+	left: 510px;
+	top: 10px;
+	color: #999999;
+	font-size: 24px;
+	margin-left: 20px;
+}
+
+#rightpart {
+	width: 400px;
+	height: 8px;
+	position: absolute;
+	left: 800px;
+	top: 20px;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 1229px;
+	height: 645px;
+	background-color: #f0ece9;
+}
+
+.top {
+	position: relative;
+	top: 0px;
+	width: 1229px;
+	height: 110px;
+}
+
+.middle {
+	margin: 0 auto;
+	width: 1200px;
+	height: 457px;
+}
+
+.down {
+	position: relative;
+}
+
+.all2 {
+	width: 1229px;
+	height: 697px;
+	margin: 0 auto;
+	position: relative;
+	top: -697px;
+	display: none;
+}
+
+.hui {
+	width: 1229px;
+	height: 697px;
+	margin: 0 auto;
+	opacity: 0.5;
+	background-color: #9D9D9D;
+	position: relative;
+}
+
+.newWindows {
+	width: 400px;
+	height: 410px;
+	position: absolute;
+	margin: auto;
+	top: 110px;
+	left: 340px;
+	border: 1px black;
+	background-color: white;
+}
+
+.tiTle {
+	background-color: #555555;
+	width: 400px;
+	height: 40px;
+}
+
+.tExt {
+	width: 400px;
+	height: 45px;
+	text-align: center;
+}
+
+.tExt2 {
+	width: 400px;
+	height: 55px;
+}
+
+.dow3 {
+	width: 80px;
+	height: 30px;
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+	text-decoration: none;
+	background-color: #5cb85c;
+	border: 1px solid black;
+	cursor: pointer
+}
+
+.dow4 {
+	width: 80px;
+	height: 30px;
+	text-align: center;
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+	background-color: white;
+	border: 1px solid black;
+	cursor: pointer
+}
+
