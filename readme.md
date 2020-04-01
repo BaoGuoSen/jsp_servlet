@@ -6,4 +6,4 @@
   
 运行截图：
 
-![image](https://github.com/BaoGuoSen/jsp_servlet/blob/master/img/_5_PS~~E)MG215K%40L445E91.png)
+![image] (https://github.com/BaoGuoSen/jsp_servlet/blob/master/img/_5_PS~~E)MG215K%40L445E91.png)
